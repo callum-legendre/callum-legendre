@@ -3,7 +3,7 @@
 ## About Me
 
 I am a game developer from Edinburgh, Scotland, with a particular interest
-in game engines, graphics programming, systems programming, and game design.
+in game engines, game design, graphics programming, and systems programming.
 I enjoy both building the underlying technology that powers games and thinking
 critically about gameplay systems, player experience, and what makes games
 engaging and fun.
@@ -30,7 +30,7 @@ see the [project README](https://github.com/callum-legendre/infants-and-incantat
 
 ## Technical Skills
 
-- **Languages:** C++, C, C#, Python, SQL
+- **Languages:** C++, C, C#, Dlang, Python, SQL
 - **Build & Development Tools:** CMake, Git
 - **Game & Graphics:** Unity (C#), OGRE, SDL2
 - **Software Engineering:** Working with unfamiliar codebases, debugging and
