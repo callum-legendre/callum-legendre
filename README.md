@@ -3,7 +3,7 @@
 ## About Me
 
 I am a game developer from Edinburgh, Scotland, with a particular interest
-in game engines, game design, graphics programming, and systems programming.
+in game engines, game design, and systems programming.
 I enjoy both building the underlying technology that powers games and thinking
 critically about gameplay systems, player experience, and what makes games
 engaging and fun.
