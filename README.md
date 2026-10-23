@@ -8,9 +8,11 @@ I enjoy both building the underlying technology that powers games and thinking
 critically about gameplay systems, player experience, and what makes games
 engaging and fun.
 
-## Current Project
+## Current Projects
 
 ### [Infants and Incantations](https://github.com/callum-legendre/infants-and-incantations)
+
+### Infants and Incantations
 
 **Infants and Incantations** is a solo C++ vertical-slice prototype built
 using [OGRE](https://www.ogre3d.org/) with SDL2 integration.
@@ -27,6 +29,14 @@ third-party code.
 
 For a deeper technical breakdown, including the macOS and SDL2 integration,
 see the [project README](https://github.com/callum-legendre/infants-and-incantations/blob/main/README.md).
+
+### Degrading Dream
+
+**Degrading Dream** is a 3D stealth-game prototype in development at Amoriem Labs, where I serve as project lead for a 20-person multidisciplinary team.
+
+The initial playable build is focused on contextual hiding, fluid player movement, item-based distractions, and basic enemy behaviour. I defined the prototype’s scope and development roadmap, coordinate responsibilities and milestones, lead weekly planning meetings, and oversee feature integration across the programming team.
+
+The project is being developed in Unity with C#, Git, and Notion.
 
 ## Technical Skills
 
