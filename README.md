@@ -12,8 +12,6 @@ engaging and fun.
 
 ### [Infants and Incantations](https://github.com/callum-legendre/infants-and-incantations)
 
-### Infants and Incantations
-
 **Infants and Incantations** is a solo C++ vertical-slice prototype built
 using [OGRE](https://www.ogre3d.org/) with SDL2 integration.
 
@@ -30,7 +28,7 @@ third-party code.
 For a deeper technical breakdown, including the macOS and SDL2 integration,
 see the [project README](https://github.com/callum-legendre/infants-and-incantations/blob/main/README.md).
 
-### Degrading Dream
+### [Degrading Dream](https://github.com/Amoriem-Labs/Degrading-Dream)
 
 **Degrading Dream** is a 3D stealth-game prototype in development at Amoriem Labs, where I serve as project lead for a 20-person multidisciplinary team.
 
