@@ -32,17 +32,17 @@ see the [project README](https://github.com/callum-legendre/infants-and-incantat
 
 **Degrading Dream** is a 3D stealth-game prototype in development at Amoriem Labs, where I serve as project lead for a 20-person multidisciplinary team.
 
-The initial playable build is focused on contextual hiding, fluid player movement, item-based distractions, and basic enemy behaviour. I defined the prototype’s scope and development roadmap, coordinate responsibilities and milestones, lead weekly planning meetings, and oversee feature integration across the programming team.
+The initial playable build is focused on contextual hiding, fluid player movement, item-based distractions, and basic enemy behavior. I defined the prototype’s scope and development roadmap, coordinate responsibilities and milestones, lead weekly planning meetings, and oversee feature integration across the programming team.
 
 The project is being developed in Unity with C#, Git, and Notion.
 
 ## Technical Skills
 
-- **Languages:** C++, C, C#, Dlang, Python, SQL
+- **Languages:** C++, C, C#, D, Python, SQL
 - **Build & Development Tools:** CMake, Git
 - **Game & Graphics:** Unity (C#), OGRE, SDL2
-- **Software Engineering:** Working with unfamiliar codebases, debugging and
-  integrating third-party libraries, project architecture, and build configuration
+- **Software Engineering:** Game architecture, third-party codebase integration, debugging, and build configuration
+- **Leadership & Production:** Multidisciplinary team leadership, project scoping, roadmap planning, and milestone coordination
 
 ## Contact
 
